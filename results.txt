@@ -1,0 +1,60 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+16/11/06 18:55:33 INFO Slf4jLogger: Slf4jLogger started
+16/11/06 18:55:33 INFO Remoting: Starting remoting
+16/11/06 18:55:33 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://sparkDriverActorSystem@192.168.0.104:51270]
+collectedResults 1158500
+Retrieved webLogsByIp: 90544
+Retrieved webLogSessionsByIp * This answers #1 *
+The Average duration is: 1 minutes or 100727 milliseconds
+ip: 52.74.219.71 duration: 2069162
+ip: 119.81.61.166 duration: 2068849
+ip: 106.186.23.95 duration: 2068756
+ip: 125.19.44.66 duration: 2068713
+ip: 125.20.39.66 duration: 2068320
+ip: 192.8.190.10 duration: 2067235
+ip: 54.251.151.39 duration: 2067023
+ip: 180.211.69.209 duration: 2066961
+ip: 180.179.213.70 duration: 2065638
+ip: 203.189.176.14 duration: 2065594
+ip: 213.239.204.204 duration: 2065587
+ip: 122.15.156.64 duration: 2065520
+ip: 103.29.159.138 duration: 2065413
+ip: 203.191.34.178 duration: 2065346
+ip: 180.151.80.140 duration: 2065250
+ip: 78.46.60.71 duration: 2064862
+ip: 103.29.159.186 duration: 2064699
+ip: 125.16.218.194 duration: 2064475
+ip: 192.71.175.30 duration: 2063580
+ip: 103.29.159.213 duration: 2063168
+ip: 135.245.115.245 duration: 2062985
+ip: 14.99.226.79 duration: 2062909
+ip: 103.12.119.2 duration: 2062552
+ip: 54.240.199.105 duration: 2062473
+ip: 54.169.191.85 duration: 2061688
+ip: 125.17.164.241 duration: 2061544
+ip: 163.53.211.6 duration: 2061155
+ip: 66.102.6.254 duration: 2060666
+ip: 125.22.193.150 duration: 2060468
+ip: 122.169.141.4 duration: 2060159
+ip: 91.103.41.1 duration: 2060089
+ip: 125.21.240.2 duration: 2059854
+ip: 103.13.219.4 duration: 2059111
+ip: 103.29.159.62 duration: 2058993
+ip: 14.139.220.98 duration: 2058319
+ip: 203.143.186.45 duration: 2057941
+ip: 122.248.163.3 duration: 2057434
+ip: 117.205.158.11 duration: 2057223
+ip: 164.100.222.44 duration: 2056583
+ip: 121.242.158.195 duration: 2055388
+ip: 193.194.132.74 duration: 2055264
+ip: 171.159.64.10 duration: 2055120
+ip: 111.93.89.14 duration: 2054976
+ip: 61.246.57.5 duration: 2054762
+ip: 123.108.60.147 duration: 2054630
+ip: 54.244.52.204 duration: 2054299
+ip: 112.79.38.164 duration: 2053913
+ip: 125.19.44.195 duration: 2053555
+ip: 115.248.37.69 duration: 2053537
+ip: 119.226.211.70 duration: 2053377
+
+Process finished with exit code 0
